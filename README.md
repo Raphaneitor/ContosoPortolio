@@ -55,7 +55,7 @@ Após as importações das tabelas na base de dados, realizamos a alteração/fo
 ## 🔷Relacionamento das tabelas/modelo de dados
 <img align="middle" width="800"  src="https://github.com/Raphaneitor/ContosoPortolio/blob/main/imagens/Modelo%20Relacional%20de%20dados_Contoso.png?raw=true"><br><br>
 Após realizamos a importação e tratamento dos dados no power query, quando vamos na aba de “exibição de modelo” no relatório do Power BI, veremos esse tipo de relacionamento entre as tabelas, mostrando de forma prioritária a tabela Fato com os seus diversos relacionamentos entre as suas tabelas dimensões.<br><br>
-<b> Tabelas e colunas importadas, criadas e modeladas:</b> <br><br>
+📋<b>Tabelas e colunas importadas, criadas e modeladas:</b> <br><br>
 🔸<b>FactOnlineSales:</b> Tabela base para se criar principais análises do projeto, sejam elas: quantidade e valor das vendas, custo sobre os produtos/vendas etc.<br><br>
 <img align="middle" width="600"  src="https://github.com/Raphaneitor/ContosoPortolio/blob/main/imagens/Tabelas/FactOnlineSales.png?raw=true"><br><br>
 🔸<b>DimProduct: </b>Tabela que traz as características dos produtos utilizados nas vendas ou que estão cadastrados na base de dados da loja.<br><br>
